@@ -1,7 +1,7 @@
 ---
 description: >-
-  An overview of major litigation cases in crypto. Main page includes a general
-  list with available docket links and press releases.
+  An overview of major litigation cases in crypto. Includes docket links and
+  press releases.
 cover: .gitbook/assets/litigation-tracker-cover-small.png
 coverY: 106.18666666666667
 layout:
@@ -28,6 +28,8 @@ Although this page is frequently updated and contains what the authors believe a
 
 {% hint style="info" %}
 This page is best viewed on a desktop browser. It is big.
+
+Want updates and other information about crypto law? Subscribe to Lawtoshi's newsletter right [here](https://lawtoshi.xyz).&#x20;
 {% endhint %}
 
 ## SEC
