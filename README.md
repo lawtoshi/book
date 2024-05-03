@@ -29,7 +29,7 @@ Although this page is frequently updated and contains what the authors believe a
 {% hint style="info" %}
 This page is best viewed on a desktop browser. It is big.
 
-Want updates and other information about crypto law? Subscribe to Lawtoshi's newsletter right [here](https://lawtoshi.xyz).&#x20;
+Want updates and other information about crypto law? Subscribe to Lawtoshi's newsletter right [here](https://lawtoshi.xyz/subscribe).&#x20;
 {% endhint %}
 
 ## SEC
